@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\ai_snake\ai_snake\main.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\ai_snake\ai_snake\main.cpp(96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\ai_snake\ai_snake\main.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\ai_snake\ai_snake\main.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AI_Snake.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\Projects\AI_Snake\Debug\AI_Snake.exe
